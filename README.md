@@ -1,2 +1,2 @@
 # News-Bee-India
-A news Website created with html and javascript 
+A news website which retrieves data from news API using Ajax and displays Current News, Tech news and news related to a particular region or country. Technologies used - HTML, Java script, Bootstrap
