@@ -1,2 +1,2 @@
 # News-Bee-India
-Anews Website created with html and javascript 
+A news Website created with html and javascript 
